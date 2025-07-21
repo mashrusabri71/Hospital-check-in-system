@@ -23,7 +23,7 @@ An embedded system project that simulates a real-world hospital check-in and tri
 3. Run the Python script to simulate patient/doctor check-in.
 
 ## 📷 Demo Video
-[![Demo Video]()]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/4b2XtwZeXCE))
+[![Demo Video]()]((https://youtu.be/4b2XtwZeXCE))
 
 ## 👤 Author
 **Mashrur Rashid**  
