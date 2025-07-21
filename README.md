@@ -1,5 +1,5 @@
-# Hospital-check-in-system
-# 🏥 Arduino COVID Triage System
+
+# 🏥 COVID Seat Management System in Hospitals
 
 An embedded system project that simulates a real-world hospital check-in and triage system during the COVID-19 pandemic. Built using Python and the `engi1020.arduino` library, this system uses Arduino components to interact with patients and doctors, automating seat assignment and data logging based on COVID risk levels.
 
@@ -22,8 +22,8 @@ An embedded system project that simulates a real-world hospital check-in and tri
 2. Install the `engi1020.arduino` Python module (available in Memorial University's ENGI 1020 environment).
 3. Run the Python script to simulate patient/doctor check-in.
 
-## 📷 Preview
-*(Optional: Add images or GIFs of your setup or LCD interface here)*
+## 📷 Demo Video
+[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 ## 👤 Author
 **Mashrur Rashid**  
